@@ -1,0 +1,16 @@
+/* CSS declarations go here */
+#chatFrame{
+    margin: 0 auto;
+    width: 50%;
+    border: 1px solid black;
+}
+
+form {
+    margin: 0 auto;
+    width: 50%;
+}
+
+#login {
+    margin: 0 auto;
+    width: 50%;
+}
